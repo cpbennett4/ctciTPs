@@ -1,0 +1,23 @@
+{
+  "name": "ctciTPs",
+  "version": "1.0.0",
+  "description": "CTCI TPs and tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpbennett4/ctciTPs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpbennett4/ctciTPs/issues"
+  },
+  "homepage": "https://github.com/cpbennett4/ctciTPs#readme",
+  "devDependencies": {
+    "jest": "^22.4.4"
+  }
+}
