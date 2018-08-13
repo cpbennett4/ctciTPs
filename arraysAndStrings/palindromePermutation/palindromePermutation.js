@@ -35,8 +35,6 @@ const palindromePermutation = (string) => {
       odds.push(letters[letter]);
     }
   }
-  console.log('letters: ',letters);
-  console.log('odds: ',odds);
 
   // make sure there is 1 odd letter at most and it is one
   if (odds.length > 1 || (odds[0] && odds[0] !== 1)) {
